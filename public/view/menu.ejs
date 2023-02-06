@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="manifest" href="manifest.json">
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <link href="css/style.css" rel="stylesheet" />
+</head>
+<body>
+  <div class="page-container">
+    <div class="page-header">
+      <img height=371px style="overflow: hidden;margin-bottom: -35px" src="css/worldcup.jpeg"> 
+    </div>
+    <button class="home-btn" onclick="window.location=`${location.origin}/select`;" type="button">Kick Off</button>
+  </div>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+</body>
+<script>
+  if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("service-worker.js");
+  }
+</script>
+</html>

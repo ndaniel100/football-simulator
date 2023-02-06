@@ -1,0 +1,510 @@
+[
+    {
+        "name": "Brazil",
+        "league": "Group G",
+        "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/BRA?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/1370/240.png",
+        "rank": "1",
+        "lineup":[
+            {"player": "Neymar", "face": "https://images.fotmob.com/image_resources/playerimages/19533.png"},
+            {"player": "Richarlison", "face": "https://images.fotmob.com/image_resources/playerimages/654908.png"},
+            {"player": "Vinicius", "face": "https://images.fotmob.com/image_resources/playerimages/846033.png"},
+            {"player": "Raphinha", "face": "https://images.fotmob.com/image_resources/playerimages/696679.png"},
+            {"player": "Paqueta", "face": "https://images.fotmob.com/image_resources/playerimages/766435.png"},
+            {"player": "Casemiro", "face": "https://images.fotmob.com/image_resources/playerimages/208494.png"},
+            {"player": "Danilo", "face": "https://images.fotmob.com/image_resources/playerimages/208077.png"},
+            {"player": "Alex Sandro", "face": "https://images.fotmob.com/image_resources/playerimages/157865.png"},
+            {"player": "Thiago Silva", "face": "https://images.fotmob.com/image_resources/playerimages/80562.png"},
+            {"player": "Marquinhos", "face": "https://images.fotmob.com/image_resources/playerimages/267365.png"},
+            {"player": "Alisson", "face": "https://images.fotmob.com/image_resources/playerimages/319784.png"}
+        ]
+    },
+    {
+        "name": "France",
+        "league": "Group D",
+        "flag": "https://cdn.sofifa.net/flags/fr@2x.png",
+        "logo": "https://cdn.sofifa.net/teams/1335/240.png",
+        "rank": "2",
+        "lineup":[
+            {"player": "Mbappé", "face": "https://images.fotmob.com/image_resources/playerimages/701154.png"},
+            {"player": "Griezmann", "face": "https://images.fotmob.com/image_resources/playerimages/184138.png"},
+            {"player": "Giroud", "face": "https://images.fotmob.com/image_resources/playerimages/46469.png"},
+            {"player": "Camavinga", "face": "https://images.fotmob.com/image_resources/playerimages/1015185.png"},
+            {"player": "Rabiot", "face": "https://images.fotmob.com/image_resources/playerimages/352879.png"},
+            {"player": "Tchouaméni", "face": "https://images.fotmob.com/image_resources/playerimages/914458.png"},
+            {"player": "Pavard", "face": "https://images.fotmob.com/image_resources/playerimages/611223.png"},
+            {"player": "Hernandez", "face": "https://images.fotmob.com/image_resources/playerimages/504606.png"},
+            {"player": "Varane", "face": "https://images.fotmob.com/image_resources/playerimages/230982.png"},
+            {"player": "Koundé", "face": "https://images.fotmob.com/image_resources/playerimages/705450.png"},
+            {"player": "Lloris", "face": "https://images.fotmob.com/image_resources/playerimages/26295.png"}
+        ]
+    },
+    {
+        "name": "Belgium",
+        "league": "Group F",
+        "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/BEL?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/1325/240.png",
+        "rank": "3",
+        "lineup":[
+            {"player": "Lukaku", "face": "https://images.fotmob.com/image_resources/playerimages/181276.png"},
+            {"player": "Hazard", "face": "https://images.fotmob.com/image_resources/playerimages/107417.png"},
+            {"player": "Carrasco", "face": "https://images.fotmob.com/image_resources/playerimages/354467.png"},
+            {"player": "De Bruyne", "face": "https://images.fotmob.com/image_resources/playerimages/169200.png"},
+            {"player": "Meunier", "face": "https://images.fotmob.com/image_resources/playerimages/277771.png"},
+            {"player": "Tielemans", "face": "https://images.fotmob.com/image_resources/playerimages/465960.png"},
+            {"player": "Witsel", "face": "https://images.fotmob.com/image_resources/playerimages/39591.png"},
+            {"player": "Dendoncker", "face": "https://images.fotmob.com/image_resources/playerimages/424129.png"},
+            {"player": "Vertonghen", "face": "https://images.fotmob.com/image_resources/playerimages/37762.png"},
+            {"player": "Alderweireld", "face": "https://images.fotmob.com/image_resources/playerimages/160599.png"},
+            {"player": "Courtois", "face": "https://images.fotmob.com/image_resources/playerimages/170323.png"}
+        ]
+    },
+    {
+        "name": "Spain",
+        "league": "Group E",
+        "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ESP?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/1362/240.png",
+        "rank": "4",
+        "lineup":[
+            {"player": "Asensio", "face": "https://images.fotmob.com/image_resources/playerimages/498033.png"},
+            {"player": "Torres", "face": "https://images.fotmob.com/image_resources/playerimages/881771.png"},
+            {"player": "Olmo", "face": "https://images.fotmob.com/image_resources/playerimages/614834.png"},
+            {"player": "Gavi", "face": "https://images.fotmob.com/image_resources/playerimages/1279040.png"},
+            {"player": "Pedri", "face": "https://images.fotmob.com/image_resources/playerimages/1083323.png"},
+            {"player": "Busquets", "face": "https://images.fotmob.com/image_resources/playerimages/154257.png"},
+            {"player": "Carvajal", "face": "https://images.fotmob.com/image_resources/playerimages/282674.png"},
+            {"player": "Alba", "face": "https://images.fotmob.com/image_resources/playerimages/150739.png"},
+            {"player": "Rodri", "face": "https://images.fotmob.com/image_resources/playerimages/675088.png"},
+            {"player": "Laporte", "face": "https://images.fotmob.com/image_resources/playerimages/411617.png"},
+            {"player": "Unai Simon", "face": "https://images.fotmob.com/image_resources/playerimages/660625.png"}
+        ]
+    },
+    {
+        "name": "Argentina",
+        "league": "Group C",
+        "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ARG?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/1369/240.png",
+        "rank": "5",
+        "lineup":[
+            {"player": "Messi", "face": "https://images.fotmob.com/image_resources/playerimages/30981.png"},
+            {"player": "Martinez", "face": "https://images.fotmob.com/image_resources/playerimages/690230.png"},
+            {"player": "Di Maria", "face": "https://images.fotmob.com/image_resources/playerimages/46509.png"},
+            {"player": "Gomez", "face": "https://images.fotmob.com/image_resources/playerimages/45220.png"},
+            {"player": "De Paul", "face": "https://images.fotmob.com/image_resources/playerimages/324578.png"},
+            {"player": "Paredes", "face": "https://images.fotmob.com/image_resources/playerimages/237606.png"},
+            {"player": "Molina", "face": "https://images.fotmob.com/image_resources/playerimages/726345.png"},
+            {"player": "Acuna", "face": "https://images.fotmob.com/image_resources/playerimages/561187.png"},
+            {"player": "Otamendi", "face": "https://images.fotmob.com/image_resources/playerimages/174321.png"},
+            {"player": "Romero", "face": "https://images.fotmob.com/image_resources/playerimages/789066.png"},
+            {"player": "Martinez", "face": "https://images.fotmob.com/image_resources/playerimages/268375.png"}
+        ]
+    },
+    {
+        "name": "England",
+        "league": "Group B",
+        "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ENG?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/1318/240.png",
+        "rank": "6",
+        "lineup":[
+            {"player": "Kane", "face": "https://images.fotmob.com/image_resources/playerimages/194165.png"},
+            {"player": "Sterling", "face": "https://images.fotmob.com/image_resources/playerimages/246575.png"},
+            {"player": "Saka", "face": "https://images.fotmob.com/image_resources/playerimages/961995.png"},
+            {"player": "Bellingham", "face": "https://images.fotmob.com/image_resources/playerimages/1077894.png"},
+            {"player": "Mount", "face": "https://images.fotmob.com/image_resources/playerimages/750032.png"},
+            {"player": "Rice", "face": "https://images.fotmob.com/image_resources/playerimages/654096.png"},
+            {"player": "Trippier", "face": "https://images.fotmob.com/image_resources/playerimages/191869.png"},
+            {"player": "Shaw", "face": "https://images.fotmob.com/image_resources/playerimages/362694.png"},
+            {"player": "Stones", "face": "https://images.fotmob.com/image_resources/playerimages/263653.png"},
+            {"player": "Maguire", "face": "https://images.fotmob.com/image_resources/playerimages/255610.png"},
+            {"player": "Pickford", "face": "https://images.fotmob.com/image_resources/playerimages/303919.png"}
+        ]
+    },
+    {
+        "name": "Germany",
+        "league": "Group E",
+        "flag": "https://cdn.sofifa.net/flags/de@2x.png",
+        "logo": "https://cdn.sofifa.net/teams/1337/240.png",
+        "rank": "7",
+        "lineup":[
+            {"player": "Havertz", "face": "https://images.fotmob.com/image_resources/playerimages/749736.png"},
+            {"player": "Gnabry", "face": "https://images.fotmob.com/image_resources/playerimages/385437.png"},
+            {"player": "Sané", "face": "https://images.fotmob.com/image_resources/playerimages/530859.png"},
+            {"player": "Musiala", "face": "https://images.fotmob.com/image_resources/playerimages/1156141.png"},
+            {"player": "Kimmich", "face": "https://images.fotmob.com/image_resources/playerimages/460632.png"},
+            {"player": "Gündogan", "face": "https://images.fotmob.com/image_resources/playerimages/178818.png"},
+            {"player": "Kehrer", "face": "https://images.fotmob.com/image_resources/playerimages/604088.png"},
+            {"player": "Raum", "face": "https://images.fotmob.com/image_resources/playerimages/806669.png"},
+            {"player": "Rudiger", "face": "https://images.fotmob.com/image_resources/playerimages/276738.png"},
+            {"player": "Sule", "face": "https://images.fotmob.com/image_resources/playerimages/447084.png"},
+            {"player": "Neuer", "face": "https://images.fotmob.com/image_resources/playerimages/27299.png"}
+        ]
+    },
+    {
+        "name": "Netherlands",
+        "league": "Group A",
+        "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/NED?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/105035/240.png",
+        "rank": "8",
+        "lineup":[
+            {"player": "Depay", "face": "https://images.fotmob.com/image_resources/playerimages/303824.png"},
+            {"player": "Gakpo", "face": "https://images.fotmob.com/image_resources/playerimages/806552.png"},
+            {"player": "Bergwijn", "face": "https://images.fotmob.com/image_resources/playerimages/564818.png"},
+            {"player": "Dumfries", "face": "https://images.fotmob.com/image_resources/playerimages/593118.png"},
+            {"player": "Berghuis", "face": "https://images.fotmob.com/image_resources/playerimages/209786.png"},
+            {"player": "de Jong", "face": "https://images.fotmob.com/image_resources/playerimages/638622.png"},
+            {"player": "Blind", "face": "https://images.fotmob.com/image_resources/playerimages/161012.png"},
+            {"player": "van Dijk", "face": "https://images.fotmob.com/image_resources/playerimages/209405.png"},
+            {"player": "de Vrij", "face": "https://images.fotmob.com/image_resources/playerimages/188555.png"},
+            {"player": "de Ligt", "face": "https://images.fotmob.com/image_resources/playerimages/769895.png"},
+            {"player": "Noppert", "face": "https://images.fotmob.com/image_resources/playerimages/466852.png"}
+        ]
+    },
+    {
+        "name": "Portugal",
+        "league": "Group H",
+        "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/POR?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/1354/240.png",
+        "rank": "9",
+        "lineup":[
+            {"player": "Ronaldo", "face": "https://images.fotmob.com/image_resources/playerimages/30893.png"},
+            {"player": "Joao Felix", "face": "https://images.fotmob.com/image_resources/playerimages/794427.png"},
+            {"player": "Fernandes", "face": "https://images.fotmob.com/image_resources/playerimages/422685.png"},
+            {"player": "Bernardo", "face": "https://images.fotmob.com/image_resources/playerimages/488139.png"},
+            {"player": "Neves", "face": "https://images.fotmob.com/image_resources/playerimages/534684.png"},
+            {"player": "Palhinha", "face": "https://images.fotmob.com/image_resources/playerimages/524434.png"},
+            {"player": "Cancelo", "face": "https://images.fotmob.com/image_resources/playerimages/361757.png"},
+            {"player": "Guerreiro", "face": "https://images.fotmob.com/image_resources/playerimages/352994.png"},
+            {"player": "Dias", "face": "https://images.fotmob.com/image_resources/playerimages/614006.png"},
+            {"player": "Pereira", "face": "https://images.fotmob.com/image_resources/playerimages/240235.png"},
+            {"player": "Diogo Costa", "face": "https://images.fotmob.com/image_resources/playerimages/795630.png"}
+        ]
+    },
+    {
+        "name": "Denmark",
+        "league": "Group D",
+        "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/DEN?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/1331/240.png",
+        "rank": "10",
+        "lineup":[
+            {"player": "Poulsen", "face": "https://images.fotmob.com/image_resources/playerimages/266527.png"},
+            {"player": "Eriksen", "face": "https://images.fotmob.com/image_resources/playerimages/157723.png"},
+            {"player": "Dolberg", "face": "https://images.fotmob.com/image_resources/playerimages/640742.png"},
+            {"player": "Damsgaard", "face": "https://images.fotmob.com/image_resources/playerimages/888912.png"},
+            {"player": "Højbjerg", "face": "https://images.fotmob.com/image_resources/playerimages/266523.png"},
+            {"player": "Delaney", "face": "https://images.fotmob.com/image_resources/playerimages/170218.png"},
+            {"player": "Mæhle", "face": "https://images.fotmob.com/image_resources/playerimages/759097.png"},
+            {"player": "Kristensen", "face": "https://images.fotmob.com/image_resources/playerimages/722207.png"},
+            {"player": "Kjær", "face": "https://images.fotmob.com/image_resources/playerimages/35112.png"},
+            {"player": "Christensen", "face": "https://images.fotmob.com/image_resources/playerimages/449232.png"},
+            {"player": "Schmeichel", "face": "https://images.fotmob.com/image_resources/playerimages/37770.png"}
+        ]
+    },
+    {
+        "name": "Croatia",
+        "league": "Group F",
+        "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/CRO?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/1328/240.png",
+        "rank": "11",
+        "lineup":[
+            {"player": "Perisic", "face": "https://cdn.sofifa.net/players/181/458/23_120.png"},
+            {"player": "Kramaric", "face": "https://cdn.sofifa.net/players/216/354/23_120.png"},
+            {"player": "Pasalic", "face": "https://cdn.sofifa.net/players/223/273/23_120.png"},
+            {"player": "Modric", "face": "https://cdn.sofifa.net/players/177/003/23_120.png"},
+            {"player": "Kovacic", "face": "https://cdn.sofifa.net/players/207/410/23_120.png"},
+            {"player": "Brozovic", "face": "https://cdn.sofifa.net/players/216/352/23_120.png"},
+            {"player": "Juranovic", "face": "https://cdn.sofifa.net/players/257/771/23_120.png"},
+            {"player": "Sosa", "face": "https://cdn.sofifa.net/players/243/388/23_120.png"},
+            {"player": "Lovren", "face": "https://cdn.sofifa.net/players/195/086/23_120.png"},
+            {"player": "Gvardiol", "face": "https://cdn.sofifa.net/players/251/517/23_120.png"},
+            {"player": "Livakovic", "face": "https://cdn.sofifa.net/players/241/671/23_120.png"}
+        ]
+    },
+    {
+        "name": "Uruguay",
+        "league": "Group H",
+        "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/URU?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/1377/240.png",
+        "rank": "12",
+        "lineup":[
+            {"player": "Suarez", "face": "https://cdn.sofifa.net/players/176/580/23_120.png"},
+            {"player": "Nunez", "face": "https://cdn.sofifa.net/players/253/072/23_120.png"},
+            {"player": "Cavani", "face": "https://cdn.sofifa.net/players/179/813/23_120.png"},
+            {"player": "Valverde", "face": "https://cdn.sofifa.net/players/239/053/23_120.png"},
+            {"player": "Bentancur", "face": "https://cdn.sofifa.net/players/227/535/23_120.png"},
+            {"player": "Vecino", "face": "https://cdn.sofifa.net/players/219/985/23_120.png"},
+            {"player": "Araujo", "face": "https://cdn.sofifa.net/players/253/163/23_120.png"},
+            {"player": "Olivera", "face": "https://cdn.sofifa.net/players/240/716/23_120.png"},
+            {"player": "Gimenez", "face": "https://cdn.sofifa.net/players/216/460/23_120.png"},
+            {"player": "Godin", "face": "https://cdn.sofifa.net/players/182/493/23_120.png"},
+            {"player": "Rochet", "face": "https://cdn.sofifa.net/players/223/690/23_120.png"}
+        ]
+    },
+    {
+        "name": "Mexico",
+        "league": "Group C",
+        "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/MEX?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/1386/240.png",
+        "rank": "13",
+        "lineup":[
+            {"player": "Jimenez", "face": "https://cdn.sofifa.net/players/204/838/23_120.png"},
+            {"player": "Lozano", "face": "https://cdn.sofifa.net/players/221/992/23_120.png"},
+            {"player": "Vega", "face": "https://cdn.sofifa.net/players/233/260/23_120.png"},
+            {"player": "Herrera", "face": "https://cdn.sofifa.net/players/156/519/23_120.png"},
+            {"player": "Rodriguez", "face": "https://cdn.sofifa.net/players/235/389/23_120.png"},
+            {"player": "Alvarez", "face": "https://cdn.sofifa.net/players/235/844/23_120.png"},
+            {"player": "Sanchez", "face": "https://cdn.sofifa.net/players/233/493/23_120.png"},
+            {"player": "Gallardo", "face": "https://cdn.sofifa.net/players/226/045/23_120.png"},
+            {"player": "Montes", "face": "https://cdn.sofifa.net/players/229/980/23_120.png"},
+            {"player": "Moreno", "face": "https://cdn.sofifa.net/players/173/432/23_120.png"},
+            {"player": "Ochoa", "face": "https://cdn.sofifa.net/players/140/233/23_120.png"}
+        ]
+    },
+    {
+        "name": "Japan",
+        "league": "Group E",
+        "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/JPN?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/1411/240.png",
+        "rank": "14",
+        "lineup":[
+            {"player": "Asano", "face": "https://cdn.sofifa.net/players/232/610/23_120.png"},
+            {"player": "Kamada", "face": "https://cdn.sofifa.net/players/232/730/23_120.png"},
+            {"player": "Minamino", "face": "https://cdn.sofifa.net/players/226/627/23_120.png"},
+            {"player": "Ito", "face": "https://cdn.sofifa.net/players/232/905/23_120.png"},
+            {"player": "Endo", "face": "https://cdn.sofifa.net/players/232/487/23_120.png"},
+            {"player": "Shibasaki", "face": "https://cdn.sofifa.net/players/232/883/23_120.png"},
+            {"player": "Tomiyasu", "face": "https://cdn.sofifa.net/players/232/938/23_120.png"},
+            {"player": "Nagatomo", "face": "https://cdn.sofifa.net/players/194/359/23_120.png"},
+            {"player": "Itakura", "face": "https://cdn.sofifa.net/players/233/152/23_120.png"},
+            {"player": "Yoshida", "face": "https://cdn.sofifa.net/players/191/648/23_120.png"},
+            {"player": "Gonda", "face": "https://cdn.sofifa.net/players/217/649/23_120.png"}
+        ]
+    },
+    {
+        "name": "Switzerland",
+        "league": "Group G",
+        "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SUI?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/1364/240.png",
+        "rank": "15",
+        "lineup":[
+            {"player": "Embolo", "face": "https://cdn.sofifa.net/players/222/357/23_120.png"},
+            {"player": "Shaqiri", "face": "https://cdn.sofifa.net/players/193/348/23_120.png"},
+            {"player": "Steffen", "face": "https://cdn.sofifa.net/players/210/537/23_120.png"},
+            {"player": "Xhaka", "face": "https://cdn.sofifa.net/players/199/503/23_120.png"},
+            {"player": "Vargas", "face": "https://cdn.sofifa.net/players/238/581/23_120.png"},
+            {"player": "Freuler", "face": "https://cdn.sofifa.net/players/202/024/23_120.png"},
+            {"player": "Widmer", "face": "https://cdn.sofifa.net/players/216/158/23_120.png"},
+            {"player": "Rodriguez", "face": "https://cdn.sofifa.net/players/193/352/23_120.png"},
+            {"player": "Akanji", "face": "https://cdn.sofifa.net/players/229/237/23_120.png"},
+            {"player": "Elvedi", "face": "https://cdn.sofifa.net/players/221/491/23_120.png"},
+            {"player": "Sommer", "face": "https://cdn.sofifa.net/players/177/683/23_120.png"}
+        ]
+    },
+    {
+        "name": "USA",
+        "league": "Group B",
+        "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/USA?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/1387/240.png",
+        "rank": "16",
+        "lineup":[
+            {"player": "Pulisic", "face": "https://cdn.sofifa.net/players/227/796/23_120.png"},
+            {"player": "Weah", "face": "https://cdn.sofifa.net/players/241/496/23_120.png"},
+            {"player": "Aaronson", "face": "https://cdn.sofifa.net/players/247/361/23_120.png"},
+            {"player": "McKennie", "face": "https://cdn.sofifa.net/players/238/744/23_120.png"},
+            {"player": "Musah", "face": "https://cdn.sofifa.net/players/253/177/23_120.png"},
+            {"player": "Adams", "face": "https://cdn.sofifa.net/players/232/999/23_120.png"},
+            {"player": "Dest", "face": "https://cdn.sofifa.net/players/251/804/23_120.png"},
+            {"player": "Robinson", "face": "https://cdn.sofifa.net/players/229/348/23_120.png"},
+            {"player": "Zimmerman", "face": "https://cdn.sofifa.net/players/212/591/23_120.png"},
+            {"player": "Long", "face": "https://cdn.sofifa.net/players/222/123/23_120.png"},
+            {"player": "Turner", "face": "https://cdn.sofifa.net/players/233/267/23_120.png"}
+        ]
+    },
+    {
+        "name": "Senegal",
+        "league": "Group A",
+        "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SEN?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/1667/240.png",
+        "rank": "17",
+        "lineup":[
+            {"player": "Dia", "face": "https://cdn.sofifa.net/players/246/242/23_120.png"},
+            {"player": "Sarr", "face": "https://cdn.sofifa.net/players/235/353/23_120.png"},
+            {"player": "Diatta", "face": "https://cdn.sofifa.net/players/238/227/23_120.png"},
+            {"player": "Gueye", "face": "https://cdn.sofifa.net/players/193/474/23_120.png"},
+            {"player": "Kouyate", "face": "https://cdn.sofifa.net/players/186/801/23_120.png"},
+            {"player": "Mendy", "face": "https://cdn.sofifa.net/players/198/861/23_120.png"},
+            {"player": "Sabaly", "face": "https://cdn.sofifa.net/players/215/699/23_120.png"},
+            {"player": "Ballo-Toure", "face": "https://cdn.sofifa.net/players/236/723/23_120.png"},
+            {"player": "Koulibaly", "face": "https://cdn.sofifa.net/players/201/024/23_120.png"},
+            {"player": "Diallo", "face": "https://cdn.sofifa.net/players/225/711/23_120.png"},
+            {"player": "Mendy", "face": "https://cdn.sofifa.net/players/234/642/23_120.png"}
+        ]
+    },
+    {
+        "name": "Wales",
+        "league": "Group B",
+        "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/WAL?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/1367/240.png",
+        "rank": "18",
+        "lineup":[
+            {"player": "Bale", "face": "https://cdn.sofifa.net/players/173/731/23_120.png"},
+            {"player": "Moore", "face": "https://cdn.sofifa.net/players/216/627/23_120.png"},
+            {"player": "James", "face": "https://cdn.sofifa.net/players/232/104/23_120.png"},
+            {"player": "Ramsey", "face": "https://cdn.sofifa.net/players/186/561/23_120.png"},
+            {"player": "Allen", "face": "https://cdn.sofifa.net/players/184/716/23_120.png"},
+            {"player": "Roberts", "face": "https://cdn.sofifa.net/players/225/147/23_120.png"},
+            {"player": "Williams", "face": "https://cdn.sofifa.net/players/243/057/23_120.png"},
+            {"player": "Ampadu", "face": "https://cdn.sofifa.net/players/235/735/23_120.png"},
+            {"player": "Davies", "face": "https://cdn.sofifa.net/players/205/923/23_120.png"},
+            {"player": "Rodon", "face": "https://cdn.sofifa.net/players/229/266/23_120.png"},
+            {"player": "Hennessey", "face": "https://cdn.sofifa.net/players/170/084/23_120.png"}
+        ]
+    },
+    {
+        "name": "Iran",
+        "league": "Group B",
+        "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/IRN?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/111115/240.png",
+        "rank": "19",
+        "lineup":[
+            {"player": "Taremi", "face": "https://cdn.sofifa.net/players/241/788/23_120.png"},
+            {"player": "Azmoun", "face": "https://cdn.sofifa.net/players/213/955/23_120.png"},
+            {"player": "Jahanbakhsh", "face": "https://cdn.sofifa.net/players/215/871/23_120.png"},
+            {"player": "Amiri", "face": "https://cdn.sofifa.net/players/241/785/23_120.png"},
+            {"player": "Noorollahi", "face": "https://cdn.sofifa.net/players/268/853/23_120.png"},
+            {"player": "Ezatolahi", "face": "https://cdn.sofifa.net/players/233/241/23_120.png"},
+            {"player": "Moharrami", "face": "https://cdn.sofifa.net/players/244/259/23_120.png"},
+            {"player": "Safi", "face": "https://cdn.sofifa.net/players/194/354/23_120.png"},
+            {"player": "Khalilzadeh", "face": "https://cdn.sofifa.net/players/217/414/23_120.png"},
+            {"player": "Kanani", "face": "https://cdn.sofifa.net/players/241/782/23_120.png"},
+            {"player": "Beiranvand", "face": "https://cdn.sofifa.net/players/241/790/23_120.png"}
+        ]
+    },
+    {
+        "name": "Serbia",
+        "league": "Group G",
+        "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SRB?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/110082/240.png",
+        "rank": "20",
+        "lineup":[
+            {"player": "Vlahovic", "face": "https://cdn.sofifa.net/players/246/430/23_120.png"},
+            {"player": "Mitrovic", "face": "https://cdn.sofifa.net/players/215/716/23_120.png"},
+            {"player": "Tadic", "face": "https://cdn.sofifa.net/players/199/434/23_120.png"},
+            {"player": "Kostic", "face": "https://cdn.sofifa.net/players/208/574/23_120.png"},
+            {"player": "Milinkovic-Savic", "face": "https://cdn.sofifa.net/players/223/848/23_120.png"},
+            {"player": "Zivkovic", "face": "https://cdn.sofifa.net/players/220/746/23_120.png"},
+            {"player": "Gudelj", "face": "https://cdn.sofifa.net/players/193/198/23_120.png"},
+            {"player": "Milenkovic", "face": "https://cdn.sofifa.net/players/238/095/23_120.png"},
+            {"player": "Veljkovic", "face": "https://cdn.sofifa.net/players/221/354/23_120.png"},
+            {"player": "Pavlovic", "face": "https://cdn.sofifa.net/players/254/840/23_120.png"},
+            {"player": "Rajkovic", "face": "https://cdn.sofifa.net/players/241/727/23_120.png"}
+        ]
+    },
+    {
+        "name": "Morocco",
+        "league": "Group F",
+        "flag": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/MAR?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/111111/240.png",
+        "rank": "21",
+        "lineup":[
+            {"player": "En-Nesyri", "face": "https://cdn.sofifa.net/players/235/410/23_120.png"},
+            {"player": "Ziyech", "face": "https://cdn.sofifa.net/players/208/670/23_120.png"},
+            {"player": "Boufal", "face": "https://cdn.sofifa.net/players/211/381/23_120.png"},
+            {"player": "Amallah", "face": "https://cdn.sofifa.net/players/229/010/23_120.png"},
+            {"player": "Ounahi", "face": "https://cdn.sofifa.net/players/255/125/23_120.png"},
+            {"player": "Amrabat", "face": "https://cdn.sofifa.net/players/224/158/23_120.png"},
+            {"player": "Hakimi", "face": "https://cdn.sofifa.net/players/235/212/23_120.png"},
+            {"player": "Mazraoui", "face": "https://cdn.sofifa.net/players/236/401/23_120.png"},
+            {"player": "Aguerd", "face": "https://cdn.sofifa.net/players/244/749/23_120.png"},
+            {"player": "Saiss", "face": "https://cdn.sofifa.net/players/208/295/23_120.png"},
+            {"player": "Bounou", "face": "https://cdn.sofifa.net/players/209/981/23_120.png"}
+        ]
+    },
+    {
+        "name": "Ghana",
+        "league": "Group H",
+        "flag": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/GHA?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/111462/240.png",
+        "rank": "22",
+        "lineup":[{"player":"Williams","face":"https://cdn.sofifa.net/players/216/201/23_60.png"},{"player":"Kudus","face":"https://cdn.sofifa.net/players/245/155/23_60.png"},{"player":"Sulemana","face":"https://cdn.sofifa.net/players/256/035/23_60.png"},{"player":"Ayew","face":"https://cdn.sofifa.net/players/176/571/23_60.png"},{"player":"Samed","face":"https://cdn.sofifa.net/players/252/059/23_60.png"},{"player":"Partey","face":"https://cdn.sofifa.net/players/209/989/23_60.png"},{"player":"Rahman","face":"https://cdn.sofifa.net/players/209/620/23_60.png"},{"player":"Djiku","face":"https://cdn.sofifa.net/players/212/219/23_60.png"},{"player":"Amartey","face":"https://cdn.sofifa.net/players/212/883/23_60.png"},{"player":"Lamptey","face":"https://cdn.sofifa.net/players/242/418/23_60.png"},{"player":"Zigi","face":"https://cdn.sofifa.net/players/229/956/23_60.png"}]
+    },
+    {
+        "name": "Poland",
+        "league": "Group C",
+        "flag": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/POL?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/1353/240.png",
+        "rank": "23",
+        "lineup":[{"player":"Lewandowski","face":"https://cdn.sofifa.net/players/188/545/23_60.png"},{"player":"Milik","face":"https://cdn.sofifa.net/players/205/175/23_60.png"},{"player":"Zieliński","face":"https://cdn.sofifa.net/players/210/406/23_60.png"},{"player":"Zalewski","face":"https://cdn.sofifa.net/players/262/113/23_60.png"},{"player":"Żurkowski","face":"https://cdn.sofifa.net/players/239/732/23_60.png"},{"player":"Szymański","face":"https://cdn.sofifa.net/players/235/973/23_60.png"},{"player":"Bereszyński","face":"https://cdn.sofifa.net/players/199/763/23_60.png"},{"player":"Kiwior","face":"https://cdn.sofifa.net/players/265/693/23_60.png"},{"player":"Glik","face":"https://cdn.sofifa.net/players/190/547/23_60.png"},{"player":"Bednarek","face":"https://cdn.sofifa.net/players/220/570/23_60.png"},{"player":"Szczęsny","face":"https://cdn.sofifa.net/players/186/153/23_60.png"}]
+    },
+    {
+        "name": "South Korea",
+        "league": "Group H",
+        "flag": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/KOR?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/974/240.png",
+        "rank": "24",
+        "lineup":[{"player":"Son","face":"https://cdn.sofifa.net/players/200/104/23_60.png"},{"player":"Hwang","face":"https://cdn.sofifa.net/players/212/260/23_60.png"},{"player":"Hwang","face":"https://cdn.sofifa.net/players/226/380/23_60.png"},{"player":"Lee","face":"https://cdn.sofifa.net/players/221/671/23_60.png"},{"player":"Hwang","face":"https://cdn.sofifa.net/players/228/010/23_60.png"},{"player":"Jung","face":"https://cdn.sofifa.net/players/211/003/23_60.png"},{"player":"Kim","face":"https://cdn.sofifa.net/players/213/317/23_60.png"},{"player":"Kim","face":"https://cdn.sofifa.net/players/201/528/23_60.png"},{"player":"Kim","face":"https://cdn.sofifa.net/players/237/086/23_60.png"},{"player":"Kim","face":"https://cdn.sofifa.net/players/199/231/23_60.png"},{"player":"Kim","face":"https://cdn.sofifa.net/players/191/655/23_60.png"}]
+    },
+    {
+        "name": "Tunisia",
+        "league": "Group D",
+        "flag": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/TUN?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/1391/240.png",
+        "rank": "25",
+        "lineup":[{"player":"Khazri","face":"https://cdn.sofifa.net/players/194/845/23_60.png"},{"player":"Jaziri","face":"https://cdn.sofifa.net/players/268/821/23_60.png"},{"player":"Sliti","face":"https://cdn.sofifa.net/players/205/257/23_60.png"},{"player":"Sassi","face":"https://cdn.sofifa.net/players/218/215/23_60.png"},{"player":"Laïdouni","face":"https://cdn.sofifa.net/players/233/642/23_60.png"},{"player":"Skhiri","face":"https://cdn.sofifa.net/players/225/126/23_60.png"},{"player":"Maâloul","face":"https://cdn.sofifa.net/players/218/229/23_60.png"},{"player":"Bronn","face":"https://cdn.sofifa.net/players/235/565/23_60.png"},{"player":"Meriah","face":"https://cdn.sofifa.net/players/241/746/23_60.png"},{"player":"Dräger","face":"https://cdn.sofifa.net/players/242/041/23_60.png"},{"player":"Said","face":"https://cdn.sofifa.net/players/268/823/23_60.png"}]
+    },
+    {
+        "name": "Ecuador",
+        "league": "Group A",
+        "flag": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/ECU?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/111465/240.png",
+        "rank": "26",
+        "lineup":[{"player":"Valencia","face":"https://cdn.sofifa.net/players/220/295/23_60.png"},{"player":"Mena","face":"https://cdn.sofifa.net/players/223/053/23_60.png"},{"player":"Ibarra","face":"https://cdn.sofifa.net/players/241/498/23_60.png"},{"player":"Plata","face":"https://cdn.sofifa.net/players/247/181/23_60.png"},{"player":"Caicedo","face":"https://cdn.sofifa.net/players/256/079/23_60.png"},{"player":"Gruezo","face":"https://cdn.sofifa.net/players/221/860/23_60.png"},{"player":"Estupiñán","face":"https://cdn.sofifa.net/players/237/942/23_60.png"},{"player":"Hincapié","face":"https://cdn.sofifa.net/players/256/197/23_60.png"},{"player":"Torres","face":"https://cdn.sofifa.net/players/252/053/23_60.png"},{"player":"Preciado","face":"https://cdn.sofifa.net/players/246/055/23_60.png"},{"player":"Domínguez","face":"https://cdn.sofifa.net/players/199/103/23_60.png"}]
+    },
+    {
+        "name": "Costa Rica",
+        "league": "Group E",
+        "flag": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/CRC?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/1383/240.png",
+        "rank": "27",
+        "lineup":[{"player":"Contreras","face":"https://cdn.sofifa.net/players/268/713/23_60.png"},{"player":"Campbell","face":"https://cdn.sofifa.net/players/204/713/23_60.png"},{"player":"Bennette","face":"https://cdn.sofifa.net/players/268/709/23_60.png"},{"player":"Tejeda","face":"https://cdn.sofifa.net/players/216/810/23_60.png"},{"player":"Borges","face":"https://cdn.sofifa.net/players/190/799/23_60.png"},{"player":"Torres","face":"https://cdn.sofifa.net/players/239/844/23_60.png"},{"player":"Oviedo","face":"https://cdn.sofifa.net/players/198/335/23_60.png"},{"player":"Calvo","face":"https://cdn.sofifa.net/players/213/064/23_60.png"},{"player":"Duarte","face":"https://cdn.sofifa.net/players/212/772/23_60.png"},{"player":"Fuller","face":"https://cdn.sofifa.net/players/268/702/23_60.png"},{"player":"Navas","face":"https://cdn.sofifa.net/players/193/041/23_60.png"}]
+    },
+    {
+        "name": "Australia",
+        "league": "Group D",
+        "flag": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/AUS?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/1415/240.png",
+        "rank": "28",
+        "lineup":[{"player":"Maclaren","face":"https://cdn.sofifa.net/players/212/232/23_60.png"},{"player":"Hrustić","face":"https://cdn.sofifa.net/players/237/647/23_60.png"},{"player":"Goodwin","face":"https://cdn.sofifa.net/players/209/888/23_60.png"},{"player":"Boyle","face":"https://cdn.sofifa.net/players/211/221/23_60.png"},{"player":"Irvine","face":"https://cdn.sofifa.net/players/211/378/23_60.png"},{"player":"Mooy","face":"https://cdn.sofifa.net/players/194/958/23_60.png"},{"player":"Behich","face":"https://cdn.sofifa.net/players/202/157/23_60.png"},{"player":"Degenek","face":"https://cdn.sofifa.net/players/229/585/23_60.png"},{"player":"Souttar","face":"https://cdn.sofifa.net/players/229/901/23_60.png"},{"player":"Atkinson","face":"https://cdn.sofifa.net/players/241/861/23_60.png"},{"player":"Ryan","face":"https://cdn.sofifa.net/players/199/005/23_60.png"}]
+    },
+    {
+        "name": "Canada",
+        "league": "Group F",
+        "flag": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/CAN?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/111455/240.png",
+        "rank": "29",
+        "lineup":[{"player":"David","face":"https://cdn.sofifa.net/players/243/630/23_60.png"},{"player":"Osorio","face":"https://cdn.sofifa.net/players/213/439/23_60.png"},{"player":"Davies","face":"https://cdn.sofifa.net/players/234/396/23_60.png"},{"player":"Buchanan","face":"https://cdn.sofifa.net/players/246/800/23_60.png"},{"player":"Hutchinson","face":"https://cdn.sofifa.net/players/134/744/23_60.png"},{"player":"Eustáquio","face":"https://cdn.sofifa.net/players/242/380/23_60.png"},{"player":"Adekugbe","face":"https://cdn.sofifa.net/players/220/028/23_60.png"},{"player":"Vitória","face":"https://cdn.sofifa.net/players/192/528/23_60.png"},{"player":"Miller","face":"https://cdn.sofifa.net/players/247/648/23_60.png"},{"player":"Johnston","face":"https://cdn.sofifa.net/players/256/107/23_60.png"},{"player":"Borjan","face":"https://cdn.sofifa.net/players/205/211/23_60.png"}]
+    },
+    {
+        "name": "Cameroon",
+        "league": "Group G",
+        "flag": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/CMR?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/1395/240.png",
+        "rank": "30",
+        "lineup":[{"player":"Aboubakar","face":"https://cdn.sofifa.net/players/199/069/23_60.png"},{"player":"Choupo-Moting","face":"https://cdn.sofifa.net/players/183/569/23_60.png"},{"player":"Ekambi","face":"https://cdn.sofifa.net/players/224/069/23_60.png"},{"player":"Hongla","face":"https://cdn.sofifa.net/players/236/556/23_60.png"},{"player":"Gouet","face":"https://cdn.sofifa.net/players/241/093/23_60.png"},{"player":"Anguissa","face":"https://cdn.sofifa.net/players/227/236/23_60.png"},{"player":"Ebosse","face":"https://cdn.sofifa.net/players/241/007/23_60.png"},{"player":"Nkoulou","face":"https://cdn.sofifa.net/players/188/829/23_60.png"},{"player":"Castelletto","face":"https://cdn.sofifa.net/players/213/868/23_60.png"},{"player":"Fai","face":"https://cdn.sofifa.net/players/232/183/23_60.png"},{"player":"Onana","face":"https://cdn.sofifa.net/players/226/753/23_60.png"}]
+    },
+    {
+        "name": "Saudi Arabia",
+        "league": "Group C",
+        "flag": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/KSA?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/111114/240.png",
+        "rank": "31",
+        "lineup":[{"player":"Shehri","face":"https://cdn.sofifa.net/players/211/173/23_60.png"},{"player":"Faraj","face":"https://cdn.sofifa.net/players/191/269/23_60.png"},{"player":"Dawsari","face":"https://cdn.sofifa.net/players/210/602/23_60.png"},{"player":"Bahebri","face":"https://cdn.sofifa.net/players/208/974/23_60.png"},{"player":"Kanno","face":"https://cdn.sofifa.net/players/220/075/23_60.png"},{"player":"Sharahili","face":"https://cdn.sofifa.net/players/229/800/23_60.png"},{"player":"Shahrani","face":"https://cdn.sofifa.net/players/210/603/23_60.png"},{"player":"Madu","face":"https://cdn.sofifa.net/players/213/901/23_60.png"},{"player":"Amri","face":"https://cdn.sofifa.net/players/241/197/23_60.png"},{"player":"Abdulhamid","face":"https://cdn.sofifa.net/players/246/688/23_60.png"},{"player":"Owais","face":"https://cdn.sofifa.net/players/210/923/23_60.png"}]
+    },
+    {
+        "name": "Qatar",
+        "league": "Group A",
+        "flag": "https://cloudinary.fifa.com/api/v3/picture/flags-sq-2/QAT?tx=c_fill,g_auto,q_auto,w_70,h_46",
+        "logo": "https://cdn.sofifa.net/teams/111527/240.png",
+        "rank": "32",
+        "lineup":[{"player":"Afif","face":"https://cdn.sofifa.net/players/234/051/23_60.png"},{"player":"Ali","face":"https://cdn.sofifa.net/players/268/772/23_60.png"},{"player":"Haydos","face":"https://cdn.sofifa.net/players/180/561/23_60.png"},{"player":"Hatem","face":"https://cdn.sofifa.net/players/215/911/23_60.png"},{"player":"Boudiaf","face":"https://cdn.sofifa.net/players/268/778/23_60.png"},{"player":"Ahmed","face":"https://cdn.sofifa.net/players/268/776/23_60.png"},{"player":"Hassan","face":"https://cdn.sofifa.net/players/239/861/23_60.png"},{"player":"Khoukhi","face":"https://cdn.sofifa.net/players/268/771/23_60.png"},{"player":"Rawi","face":"https://cdn.sofifa.net/players/268/782/23_60.png"},{"player":"Correia","face":"https://cdn.sofifa.net/players/268/781/23_60.png"},{"player":"Sheeb","face":"https://cdn.sofifa.net/players/180/548/23_60.png"}]
+    }
+]

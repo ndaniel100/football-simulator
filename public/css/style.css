@@ -1,0 +1,246 @@
+body {
+    background-color: #b4a74f;
+    user-select: none;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+.page-container {
+    background: #505b7d;
+    margin: 50px;
+    height: 100%;
+    padding-bottom: 1px;
+    border-radius: 25px;
+    box-shadow: 16px -4px 6px 2px rgb(0 0 0 / 20%);
+    font-family: system-ui;
+}
+.club-box1, .club-box2 {
+    width: 33.33333333%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-bottom: 40px;
+}
+
+.page-header {
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 20px;
+}
+
+.club-box1, .club-box2 {
+    position: relative;
+    min-height: 1px;
+    padding-left: 11%;
+}
+
+.league-selection {
+    padding: 9px;
+    color: #333;
+}
+
+.country-flag, .league-name{
+    position: relative;
+    display: table-cell;
+    width: 100%;
+}
+
+.club-selection, .league-selection {
+    overflow: hidden;
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    border-color: #7b755d;
+    border-width: 5px;
+    border-style: double;
+    background-color: cornsilk;
+}
+
+.club-name, .club-logo, .club-rating, .page-header{
+    text-align: center;
+}
+
+.arrow-selections{
+    position: relative;
+    bottom: 200px;
+}
+
+#left-arrow, #right-arrow{
+    position: sticky;
+    display: inline-table;
+}
+
+a {
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 50%;
+}
+
+#left-arrow {
+    background-color: #04AA6D;
+    color: white;
+}
+
+#right-arrow {
+    background-color: #04AA6D;
+    color: white;
+    left: 100%;
+}
+
+.page-body{
+    position: relative;
+    margin: -51px;
+}
+
+
+.home-name, .home-flag, .away-name, .away-flag{
+    position: relative;
+    display: table-cell;
+    vertical-align: middle;
+    width: 140px;
+    text-align: center;
+}
+
+
+.flag-img1{
+    margin-left: 83px;
+    width: 80px;
+}
+.flag-img2{
+    margin-right: 83px;
+    width: 80px;
+}
+.page-score{
+    background-color: #313d62;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    overflow: hidden;
+    padding: 20px;
+    width: 90%;
+    color: silver;
+    font-size: 26px;
+}
+
+.main-body{
+    background-color: #313d62;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    overflow: hidden;
+    padding: 20px;
+    width: 90%;
+}
+
+.game-events{
+    background-color: #1b233a;
+    width: 400px;
+    position: sticky;
+    height: 100%;
+    min-height: 400px;
+    color: white!important;
+    font-family: monospace!important;
+}
+
+.home-lineup, .away-lineup{
+    font-family: system-ui;
+    margin-bottom: 83px;
+    color: silver;
+    font-size: 18px;
+}
+
+.lineup-label{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.home-btn{
+    background-color: #adb4c9;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 46px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    overflow: hidden;
+    padding: 20px;
+    width: 46%;
+    cursor: pointer;
+    font-size: 23px;
+    font-family: system-ui;
+    color: #0e4576;
+    box-shadow: 4px 2px 11px 0px;
+}
+.simulate{
+    background-color: #adb4c9;
+    display: inline-grid;
+    justify-content: space-around;
+    margin-bottom: 46px;
+    margin-left: 25%;
+    border-radius: 20px;
+    overflow: hidden;
+    padding: 20px;
+    width: 46%;
+    cursor: pointer;
+    font-size: 23px;
+    font-family: system-ui;
+    color: #0e4576;
+    box-shadow: 4px 2px 11px 0px;
+}
+
+.home-button{
+    vertical-align: middle;
+    position: sticky;
+    right: 100%;
+}
+
+a:hover {
+    background-color: #0b8256!important;;
+    color: black;
+    cursor: pointer;
+}
+
+c:hover {
+    cursor: pointer;
+}
+
+.team-event-0 {     
+    display: flex;
+    margin-left: 0%;
+    margin-top: 10px;
+    align-items: center;
+    overflow: hidden;
+    text-align: center;
+}
+
+.team-event-1 {     
+    display: flex;
+    margin-left: 60%;
+    margin-top: 10px;
+    align-items: center;
+    overflow: hidden;
+    text-align: center;
+    justify-content: flex-end;
+}
